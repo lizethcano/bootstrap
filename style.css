@@ -1,13 +1,25 @@
-.imglogo
-{
-width: 11%;
-margin-left: 21%;}
-
-.logo2{
-    width: 14%;
+.logo1{
+    width: 9%;
+    margin-left: 25%;
 }
-
+.logo2{
+    width: 12%;
+    margin-left: 1%;
+}
 .logo3{
-    width: 23%;
-    margin-left: 4%;
+    width: 18%;
+    margin-left: 5%;
+    
+}
+#car1{
+    margin-left: 2%;
+}
+#car2{
+    margin-left: 3%;
+}
+.perfil{
+    width: 10%;
+}
+.usu{
+    width: 12%;
 }
