@@ -1,25 +1,45 @@
-.logo1{
-    width: 9%;
-    margin-left: 25%;
-}
-.logo2{
-    width: 12%;
-    margin-left: 1%;
-}
-.logo3{
-    width: 18%;
-    margin-left: 5%;
+.imglogo{
+    width: 9.8%;
+    margin-left: 20%;
+    }
     
-}
-#car1{
-    margin-left: 2%;
-}
-#car2{
-    margin-left: 3%;
-}
-.perfil{
-    width: 10%;
-}
-.usu{
-    width: 12%;
-}
+    .imglogo2{
+    width: 9.8%;
+        }
+    
+    .imglogo3{
+    width: 20%;
+    margin-left:3%;
+            }
+    #boton1{
+        margin-left: 70%;
+    }        
+    
+    .key{
+        width: 13%;
+    }
+    .usu{
+        width: 9%;
+    }
+    .fle{
+        margin-left: 90%;
+        width: 3%;
+        height: 4%;
+    }
+    
+    .ic{
+       
+        width: 105%;
+    }
+    
+    .cr{
+        margin-right: 90%;
+        width: 100%;
+    }
+    
+    
+    .fle2{
+        margin-left: 90%;
+        width: 30%;
+        height: 4;
+    }
